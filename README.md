@@ -7,3 +7,9 @@ Necessário:
  - pandas
  - scipy
  
+Homework  | Grade
+:---: | :---:
+H1  | 14.1
+H2  | 18.4
+H3  | 19.15
+H4  | 19.75
